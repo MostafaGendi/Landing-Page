@@ -6,7 +6,7 @@ This is a Dynamic Responsive Project "Landing Page". It has multiple sections.
 The navigation menu items are built dynamically.
 
 ### Table of Contents
-* [Languages and techniques]
+* [Languages and Techniques](#Languages-and-techniques)
 * [Instructions](#instructions)
 
 #### Languages and techniques
