@@ -6,10 +6,10 @@ This is a Dynamic Responsive Project "Landing Page". It has multiple sections.
 The navigation menu items are built dynamically.
 
 ### Table of Contents
-* [Languages and techniques](#Languages and techniques)
+* [Languages and Techniques](#Languages-and-techniques)
 * [Instructions](#instructions)
 
-#### Languages and techniques
+#### Languages and Techniques
 I use in this project HTML, CSS and JavaScript. The project has techniques to be dynamic.
 It shows which section is active and shown on the screen and The navigation menu items are built dynamically. It is designed to be compatible with most of recent devices.
 
